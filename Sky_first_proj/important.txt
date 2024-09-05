@@ -1,0 +1,4 @@
+run this in terminal:
+python -m http.server 8000
+then Search to this URL in Google Chrome:
+http://localhost:8000/index.html
